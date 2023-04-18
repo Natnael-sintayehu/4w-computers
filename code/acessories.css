@@ -1,0 +1,18 @@
+.ya {
+  height: 300px;
+}
+.product__text {
+  font-weight: 900;
+}
+.product__image {
+  height: 250px;
+}
+@media screen and (max-width: 900px) {
+  .nav__list {
+    color: black;
+    font-size: 2rem;
+    text-decoration: none;
+    margin-top: 1rem;
+    display: block;
+  }
+}
